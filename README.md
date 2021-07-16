@@ -6,9 +6,10 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/n0miya/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gh2o2edagehgvasq4ov3perrtm?si=b17fba3c6c174f3d)
 
+This is my personal Github. For my university Github, [click here](https://github.com/DulapahKMITL)!
 ---
 
-This is my personal Github. For my university Github, [click here](https://github.com/DulapahKMITL)!
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahV)
 
