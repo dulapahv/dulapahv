@@ -9,7 +9,7 @@
 
 ### This is my personal Github. For my university email Github, please go to https://github.com/DulapahKMITL Thanks!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahV.DulapahV)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahV)
 
 
 📈 **My GitHub Stats:**
