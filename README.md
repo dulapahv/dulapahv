@@ -1,4 +1,4 @@
-### Hello World!
+### Greetings! I'm Dulapah Vibulsanti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### This is my personal Github. For my university email Github, please go to https://github.com/DulapahKMITL Thanks!
 
