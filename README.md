@@ -27,5 +27,5 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DulapahV&hide_border=true&langs_count=10&layout=compact&theme=tokyonight&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DulapahV&hide_border=true&langs_count=10&theme=tokyonight&v=2"/>
 </p>
