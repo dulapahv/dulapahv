@@ -6,8 +6,7 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/n0miya/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gh2o2edagehgvasq4ov3perrtm?si=b17fba3c6c174f3d)
 
-##### This is my personal Github. For my university Github, [click here](https://github.com/DulapahKMITL)!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahV)
+##### This is my **personal** Github. For my university Github, [click here](https://github.com/DulapahKMITL)!
 ---
 
 **🔍Who am I?🔎**
@@ -17,6 +16,8 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 </br>
 
 **📈My GitHub Stats📊**
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahV)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
