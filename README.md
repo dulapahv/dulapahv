@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World!
+
+### This is my personal Github. For my university email Github, please go to https://github.com/DulapahKMITL Thanks!
 
 <!--
 **DulapahV/DulapahV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
