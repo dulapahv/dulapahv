@@ -21,8 +21,6 @@ I am a year 1 student in software engineering at KMITL. There are lots of things
 - 🎵 I enjoy listening to jazz, kawaii EDM, piano (also was a pianist), future bass, nightcore, etc.
 - 🎮 I like to play rhythm game, VN, FPS, MC
 
-</br>
-
 **📈 My GitHub Stats 📊**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DulapahV)
