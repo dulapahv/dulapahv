@@ -2,6 +2,8 @@
 
 ### This is my personal Github. For my university email Github, please go to https://github.com/DulapahKMITL Thanks!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **DulapahV/DulapahV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
