@@ -8,7 +8,7 @@
 [![EDX Badge](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/DulapahVibulsanti)
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/n0miya)
 
-#### This is my *personal* Github. For my university Github profile, [click here](https://github.com/DulapahKMITL)!
+<!---#### This is my *personal* Github. For my university Github profile, [click here](https://github.com/DulapahKMITL)!--->
 ---
 
 ### 🔍 Who am I 🔎
