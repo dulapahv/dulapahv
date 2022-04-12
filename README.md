@@ -17,13 +17,13 @@ I am a year 1 student in software engineering at KMITL. There are still lots of 
 
 ### 🥇 Coding Competency 🥇
 - 🌏 [Kattis](https://open.kattis.com/users/dulapahv) | **Top 50** in Thailand, **Top 10** in KMITL
-- 💁‍♂️ Providing help to friends in KMITL and from other university
+- 💁‍♂️ Providing help to friends in KMITL and other university
 
 ### 👨 A little bit about myself 👨
 - ⚡ Currently learning Python, and C/C++
-- 🎈 Planning to learn Java, Javascript, Assembly, and possibly other front-end language in the future
+- 🎈 Planning to be a full stack developer
 - ✨ Planning to pursue more coding competition like Google Kick Start, Facebook Hacker Cup, etc.
-- 🏆 My dream is to work in the Silicon Valley and develop something that will benefit everyone and improve our quality of life
+- 🏆 My dream is to work in the Silicon Valley or develop a game or develop something that will benefit everyone and improve our quality of life
 
 ### 📈 My GitHub Stats 📊
 ![Visitor Badge](https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square)
