@@ -20,7 +20,7 @@ I am a year 1 student in software engineering at KMITL. There are still lots of 
 - 💁‍♂️ Providing help to friends in KMITL and other university
 
 ### 👨 A little bit about myself 👨
-- ⚡ Currently learning Python, and C/C++
+- ⚡ Currently learning Python, C/C++, Java, and Assembly
 - 🎈 Planning to be a full stack developer
 - ✨ Planning to pursue more coding competition like Google Kick Start, Facebook Hacker Cup, etc.
 - 🏆 My dream is to work in the Silicon Valley or develop a game or develop something that will benefit everyone and improve our quality of life
