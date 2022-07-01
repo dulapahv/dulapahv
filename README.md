@@ -12,7 +12,7 @@
 ---
 
 ### 🔍 Who am I 🔎
-I am a year 1 student in software engineering at KMITL. There are still lots of things for me to learn and discover, but I will always try my best!</br>
+I am a year 2 student in software engineering at KMITL. There are still lots of things for me to learn and discover, but I will always try my best!</br>
 **📕 You can view my portfolio [here](https://DulapahV.github.io)!**
 
 ### 🥇 Coding Competency 🥇
