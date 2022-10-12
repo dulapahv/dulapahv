@@ -17,7 +17,7 @@ A <u>***multi-talented***</u> individual, a <u>***quick learner***</u>, and a <u
 
 I am experienced in the backend and can also do the frontend. I am also responsible, and able to cooperate with other team members.
 
-I am looking to improve my skills and abilities so that I can grow professionally. I will be an active and valued member of your organization, being resourceful, innovative, and flexible.
+I am looking to improve my skills and abilities so that I can grow professionally. I will be an active and valued member in the organization, being resourceful, innovative, and flexible.
 
 <br>
 
