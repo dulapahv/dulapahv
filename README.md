@@ -8,26 +8,84 @@
 [![EDX Badge](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/DulapahVibulsanti)
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/n0miya)
 
-<!---#### This is my *personal* Github. For my university Github profile, [click here](https://github.com/DulapahKMITL)!--->
----
-
-### 🔍 Who am I 🔎
-I am a year 2 student in software engineering at KMITL. There are still lots of things for me to learn and discover, but I will always try my best!</br>
 **📕 You can view my portfolio [here](https://DulapahV.github.io)!**
 
-### 🥇 Coding Competency 🥇
-- 🌏 [Kattis](https://open.kattis.com/users/dulapahv) | **Top 50** in Thailand, **Top 10** in KMITL
-- 💁‍♂️ Providing help to friends in KMITL and other university
+---
 
-### 👨 A little bit about myself 👨
-- ⚡ Currently learning Python, C/C++, Java, and Assembly
-- 🎈 Planning to be a full stack developer
-- ✨ Planning to pursue more coding competition like Google Kick Start, Facebook Hacker Cup, etc.
-- 🏆 My dream is to work in the Silicon Valley or develop a game or develop something that will benefit everyone and improve our quality of life
+## <p align="center">🔍 About Me 🔎</p>
+A multi-talented individual, a quick learner, and a fast-adapting person.
 
-### 📈 My GitHub Stats 📊
-![Visitor Badge](https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square)
-<p>
+I am experienced in the backend and can also do the frontend. I am also responsible, and able to cooperate with other team members.
+
+I am looking to improve my skills and abilities so that I can grow professionally. I will be an active and valued member of your organization, being resourceful, innovative, and flexible.
+
+## <p align="center">✨ Expert Skills ✨</p>
+### 💻 Programming 💻
+#### < Programming Languages >
+<div>
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/py.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/c.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/c++.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/cs.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/java.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/rust.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/html.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/css.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/js.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/arm.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/swift.png?raw=true" />
+</div>
+
+#### < Other Technologies >
+<div>
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/firebase.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/git.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/unity.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/unreal.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/tailwind.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/mysql.png?raw=true" />
+<div>
+
+#### < OS and Hardware >
+<div>
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/windows.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/linux.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/raspberrypi.png?raw=true" />
+</div>
+
+### 💡 Creativity 💡
+#### < Media and Design >
+<div>
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/ps.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/ai.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/pr.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/word.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/ppt.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/excel.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/visio.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/audacity.png?raw=true" />
+</div>
+
+#### < Virtual Reality and Virtual Character >
+<div>
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/oculus.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vroid.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vcast.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vtube.png?raw=true" />
+	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vmagic.png?raw=true" />
+</div>
+
+## <p align="center">🥇 Experiences and Expertises 🥇</p>
+-   Official Teaching Assistance of KMITL in Rust programming language for the KMITL freshmen.
+-   Qualified and currently a  cadet at  42Bangkok, a global computer science school from France.
+-   Initiated and mentored KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
+-   Assist in coding to friends in KMITL and other universities such as Chulalongkorn University, Thammasat University, Mahidol University, Kasetsart University, etc.
+
+## <p align="center">📈 My GitHub Stats 📊</p>
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square"/>
+</p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=dracula"/>
 </p>
