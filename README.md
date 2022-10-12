@@ -13,11 +13,13 @@
 ---
 
 ## <p align="center">🔍 About Me 🔎</p>
-A multi-talented individual, a quick learner, and a fast-adapting person.
+A <u>***multi-talented***</u> individual, a <u>***quick learner***</u>, and a <u>***fast-adapting***</u> person.
 
 I am experienced in the backend and can also do the frontend. I am also responsible, and able to cooperate with other team members.
 
 I am looking to improve my skills and abilities so that I can grow professionally. I will be an active and valued member of your organization, being resourceful, innovative, and flexible.
+
+<br>
 
 ## <p align="center">✨ Expert Skills ✨</p>
 ### 💻 Programming 💻
@@ -53,6 +55,8 @@ I am looking to improve my skills and abilities so that I can grow professionall
 	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/raspberrypi.png?raw=true" />
 </div>
 
+<br>
+
 ### 💡 Creativity 💡
 #### < Media and Design >
 <div>
@@ -75,11 +79,15 @@ I am looking to improve my skills and abilities so that I can grow professionall
 	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vmagic.png?raw=true" />
 </div>
 
+<br>
+
 ## <p align="center">🥇 Experiences and Expertises 🥇</p>
--   Official Teaching Assistance of KMITL in Rust programming language for the KMITL freshmen.
--   Qualified and currently a  cadet at  42Bangkok, a global computer science school from France.
--   Initiated and mentored KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
--   Assist in coding to friends in KMITL and other universities such as Chulalongkorn University, Thammasat University, Mahidol University, Kasetsart University, etc.
+-   Official <u>***Teaching Assistance***</u> of KMITL in Rust programming language for the KMITL freshmen.
+-   <u>***Qualified***</u> and currently a  <u>***cadet at  42Bangkok***</u>, a global computer science school from France.
+-   <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
+-   <u>***Assist in coding***</u> to friends in KMITL and other universities such as Chulalongkorn University, Thammasat University, Mahidol University, Kasetsart University, etc.
+
+<br>
 
 ## <p align="center">📈 My GitHub Stats 📊</p>
 <p align="center">
