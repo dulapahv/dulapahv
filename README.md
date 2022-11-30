@@ -91,10 +91,12 @@ I am looking to improve my skills and abilities so that I can grow professionall
 <br>
 
 ## <p align="center">📈 My GitHub Stats 📊</p>
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square"/>
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=dracula"/>
-</p>
+</p> -->
+
+![3d](./profile-3d-contrib/profile-night-rainbow.svg)
