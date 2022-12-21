@@ -32,13 +32,14 @@ I am looking to improve my skills and abilities so that I can grow professionall
 <div>
  <img height="50em" src="./images/Prog_Lang/py.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/c.png?raw=true" />
- <img height="50em" src="./images/Prog_Lang/c++.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/cpp.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/cs.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/java.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/rust.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/html.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/css.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/js.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/react.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/arm.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/swift.png?raw=true" />
 </div>
@@ -52,6 +53,7 @@ I am looking to improve my skills and abilities so that I can grow professionall
  <img height="50em" src="./images/Other_Tech/unreal.png?raw=true" />
  <img height="50em" src="./images/Other_Tech/tailwind.png?raw=true" />
  <img height="50em" src="./images/Other_Tech/mysql.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/sass.png?raw=true" />
 <div>
 
 #### < OS and Hardware >
