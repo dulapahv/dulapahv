@@ -14,6 +14,7 @@
 ---
 
 ## <p align="center">🔍 About Me 🔎</p>
+
 A <u>***multi-talented***</u> individual, a <u>***quick learner***</u>, and a <u>***fast-adapting***</u> person.
 
 I am experienced in the backend and can also do the frontend. I am also responsible, and able to cooperate with other team members.
@@ -23,70 +24,79 @@ I am looking to improve my skills and abilities so that I can grow professionall
 <br>
 
 ## <p align="center">✨ Expert Skills ✨</p>
+
 ### 💻 Programming 💻
+
 #### < Programming Languages >
+
 <div>
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/py.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/c.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/c++.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/cs.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/java.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/rust.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/html.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/css.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/js.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/arm.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Prog_Lang/swift.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/py.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/c.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/c++.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/cs.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/java.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/rust.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/html.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/css.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/js.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/arm.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/swift.png?raw=true" />
 </div>
 
 #### < Other Technologies >
+
 <div>
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/firebase.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/git.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/unity.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/unreal.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/tailwind.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Other_Tech/mysql.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/firebase.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/git.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/unity.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/unreal.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/tailwind.png?raw=true" />
+ <img height="50em" src="./images/Other_Tech/mysql.png?raw=true" />
 <div>
 
 #### < OS and Hardware >
+
 <div>
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/windows.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/linux.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/OS_Hardware/raspberrypi.png?raw=true" />
+ <img height="50em" src="./images/OS_Hardware/windows.png?raw=true" />
+ <img height="50em" src="./images/OS_Hardware/linux.png?raw=true" />
+ <img height="50em" src="./images/OS_Hardware/raspberrypi.png?raw=true" />
 </div>
 
 <br>
 
 ### 💡 Creativity 💡
+
 #### < Media and Design >
+
 <div>
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/ps.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/ai.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/pr.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/word.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/ppt.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/excel.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/visio.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/Media_Design/audacity.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/ps.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/ai.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/pr.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/word.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/ppt.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/excel.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/visio.png?raw=true" />
+ <img height="50em" src="./images/Media_Design/audacity.png?raw=true" />
 </div>
 
 #### < Virtual Reality and Virtual Character >
+
 <div>
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/oculus.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vroid.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vcast.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vtube.png?raw=true" />
-	<img height="50em" src="https://github.com/DulapahV/DulapahV.github.io/blob/main/images/VR_VChar/vmagic.png?raw=true" />
+ <img height="50em" src="./images/VR_VChar/oculus.png?raw=true" />
+ <img height="50em" src="./images/VR_VChar/vroid.png?raw=true" />
+ <img height="50em" src="./images/VR_VChar/vcast.png?raw=true" />
+ <img height="50em" src="./images/VR_VChar/vtube.png?raw=true" />
+ <img height="50em" src="./images/VR_VChar/vmagic.png?raw=true" />
 </div>
 
 <br>
 
 ## <p align="center">🥇 Experiences and Expertises 🥇</p>
--   Official <u>***Teaching Assistance***</u> of KMITL in Rust programming language for the KMITL freshmen.
--   <u>***Qualified***</u> and currently a  <u>***cadet at  42Bangkok***</u>, a global computer science school from France.
--   <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
--   <u>***Assist in coding***</u> to friends in KMITL and other universities such as Chulalongkorn University, Thammasat University, Mahidol University, Kasetsart University, etc.
+
+- Official <u>***Teaching Assistance***</u> of KMITL in Rust programming language for the KMITL freshmen.
+- <u>***Qualified***</u> and currently a  <u>***cadet at  42Bangkok***</u>, a global computer science school from France.
+- <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
+- <u>***Assist in coding***</u> to friends in KMITL and other universities such as Chulalongkorn University, Thammasat University, Mahidol University, Kasetsart University, etc.
 
 <br>
 
