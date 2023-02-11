@@ -37,8 +37,8 @@ I am looking to improve my skills and abilities so that I can grow professionall
  <img height="50em" src="./images/Prog_Lang/css.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/js.png?raw=true" />
  <img height="50em" src="./images/Prog_Lang/react.png?raw=true" />
- <img height="50em" src="./images/Prog_Lang/arm.png?raw=true" />
- <img height="50em" src="./images/Prog_Lang/swift.png?raw=true" />
+ <!-- <img height="50em" src="./images/Prog_Lang/arm.png?raw=true" />
+ <img height="50em" src="./images/Prog_Lang/swift.png?raw=true" /> -->
 </div>
 
 #### < Other Technologies >
