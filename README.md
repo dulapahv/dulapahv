@@ -92,10 +92,10 @@ I am looking to improve my skills and abilities so that I can grow professionall
 
 ## <p align="center">🥇 Experiences and Expertises 🥇</p>
 
-- Official <u>***Teaching Assistance***</u> of KMITL in Rust programming language for the KMITL freshmen.
+- Official <u>***Teaching Assistance***</u> of KMITL in Rust and C/C++ programming language for the KMITL freshmen.
 - <u>***Qualified***</u> and currently a  <u>***cadet at  42Bangkok***</u>, a global computer science school from France.
 - <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
-- <u>***Assist in coding***</u> to friends in KMITL and other universities such as Chulalongkorn University, Thammasat University, Mahidol University, Kasetsart University, etc.
+- <u>***Teach coding***</u> to friends at KMITL and other universities.
 
 <br>
 
