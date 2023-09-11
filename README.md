@@ -12,11 +12,11 @@
 
 ## <p align="center">🔍 About Me 🔎</p>
 
-A <u>***multi-talented***</u> individual, a <u>***quick learner***</u>, and a <u>***fast-adapting***</u> person.
+I am a student at the University of Glasgow and King Mongkut's Institute of Technology Ladkrabang on a double degree program in Software Engineering. I am currently studying in the third year of my degree at the University of Glasgow.
 
-I am experienced in the backend and can also do the frontend. I am also responsible, and able to cooperate with other team members.
+I am a hard-working and enthusiastic person who is willing to learn new things and take on new challenges. I am interested in web development, especially front-end development.
 
-I am looking to improve my skills and abilities so that I can grow professionally. I will be an active and valued member in the organization, being resourceful, innovative, and flexible.
+I have experience in developing websites using ReactJS, NextJS, and Tailwind CSS. You can learn more about my experience here. I am also interested in UX/UI design and have experience designing websites using Figma. I am pursuing a career as a full-stack developer and I am looking forward to where my career will take me.
 
 <br>
 
