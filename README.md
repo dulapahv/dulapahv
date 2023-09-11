@@ -22,12 +22,16 @@
  <img height="50em" src="./frontend/js.png?raw=true" />
 </div>
 
+<br>
+
 ## <p align="center">🔗 API DEVELOPMENT 🔗</p>
 
 <div align="center">
   <img height="70em" src="./api/nodejs.png?raw=true" />
   <img height="40em" src="./api/nginx.png?raw=true" />
 </div>
+
+<br>
 
 ## <p align="center">⚙️ BACKEND DEVELOPMENT ⚙️</p>
 
