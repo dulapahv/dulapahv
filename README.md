@@ -7,7 +7,7 @@
 - Experience in developing websites using ReactJS, NextJS, Tailwind CSS, and Figma.
 - Looking forward to where my career will take me.
 
-### <p align="center"><a href="http://dulapahv.dev" target="_blank">![✨ - Portfolio](https://img.shields.io/badge/✨-Portfolio-fb568a?style=for-the-badge)</a> <a href="[http://dulapahv.dev](https://discord.com/users/463287202005123072)" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+### <p align="center">[![✨ - Portfolio](https://img.shields.io/badge/✨-Portfolio-fb568a?style=for-the-badge)](https://dulapahv.dev) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/463287202005123072)</p>
 
 <br>
 
