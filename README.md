@@ -14,7 +14,7 @@
 ## <p align="center">🌸 FRONTEND 🌸</p>
 
 <div align="center">
-<img height="40em" src="./frontend/nextjs.png?raw=true" />
+  <img height="40em" src="./frontend/nextjs.png?raw=true" />
  <img height="50em" src="./frontend/reactjs.png?raw=true" />
  <img height="50em" src="./frontend/tailwindcss.png?raw=true" />
  <img height="50em" src="./frontend/html.png?raw=true" />
