@@ -11,7 +11,7 @@
 
 <br>
 
-## <p align="center">🌸 FRONTEND DEVELOPMENT 🌸</p>
+## <p align="center">🌸 FRONTEND 🌸</p>
 
 <div align="center">
 <img height="40em" src="./frontend/nextjs.png?raw=true" />
@@ -24,7 +24,7 @@
 
 <br>
 
-## <p align="center">🔗 API DEVELOPMENT 🔗</p>
+## <p align="center">🔗 API 🔗</p>
 
 <div align="center">
   <img height="70em" src="./api/nodejs.png?raw=true" />
@@ -33,7 +33,7 @@
 
 <br>
 
-## <p align="center">⚙️ BACKEND DEVELOPMENT ⚙️</p>
+## <p align="center">⚙️ BACKEND ⚙️</p>
 
 <div align="center">
  <img height="50em" src="./backend/postgresql.png?raw=true" />
