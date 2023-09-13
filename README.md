@@ -1,4 +1,4 @@
-![bg_cover](https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4)
+### <img src="https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4" style="border-radius:8px" />
 
 ### <p align="center"><img src="https://img.shields.io/badge/🔍_About_Me_🔎-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
@@ -52,7 +52,7 @@
 
 ---
 
-### <p align="center"><img src="https://img.shields.io/badge/📈_My_Github_Stats_📊-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
+<!-- ### <p align="center"><img src="https://img.shields.io/badge/📈_My_Github_Stats_📊-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p> -->
 
 <!-- <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square"/>
@@ -63,3 +63,7 @@
 </p> -->
 
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+<p align="center">With	:heart: from dulapahv :octocat:</p>
