@@ -1,6 +1,5 @@
 ![bg_cover](https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4)
 
-<!-- ## <p align="center">🔍 ABOUT ME 🔎</p> -->
 ### <p align="center"><img src="https://img.shields.io/badge/🔍_About_Me_🔎-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <p align="center">Third-year BSc Honours degree in Software Engineering student at the University of Glasgow.</p>
@@ -12,7 +11,6 @@
 
 ---
 
-<!-- ## <p align="center">🌸 FRONTEND 🌸</p> -->
 ### <p align="center"><img src="https://img.shields.io/badge/🌸_Frontend_🌸-f8ce57?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <div align="center">
@@ -26,7 +24,6 @@
 
 <br>
 
-<!-- ## <p align="center">🔗 API 🔗</p> -->
 ### <p align="center"><img src="https://img.shields.io/badge/🔗_API_🔗-f7588a?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <div align="center">
@@ -36,7 +33,6 @@
 
 <br>
 
-<!-- ## <p align="center">💾 BACKEND 💾</p> -->
 ### <p align="center"><img src="https://img.shields.io/badge/💾_Backend_💾-49dbdd?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <div align="center">
@@ -56,7 +52,6 @@
 
 ---
 
-<!-- ## <p align="center">📈 MY GITHUB STATS 📊</p> -->
 ### <p align="center"><img src="https://img.shields.io/badge/📈_My_Github_Stats_📊-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <!-- <p align="center">
