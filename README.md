@@ -7,7 +7,7 @@
 <h3 align="center">Experienced in developing websites using React.js, Next.js, Tailwind CSS, TypeScript, and Figma</h3>
 <h3 align="center">Looking forward to where my career will take me</h3>
 
-### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a?style=for-the-badge" height="35em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35em" style="border-radius:5px" />]([https://dulapahv.dev](https://discord.com/users/463287202005123072))</p>
+### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a?style=for-the-badge" height="35em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35em" style="border-radius:5px" />](https://discord.com/users/463287202005123072)</p>
 
 <br>
 
