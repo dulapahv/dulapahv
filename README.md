@@ -1,19 +1,19 @@
 ### <img src="https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4" style="border-radius:8px" />
 
-### <p align="center"><img src="https://img.shields.io/badge/🔍_About_Me_🔎-995bfb?style=for-the-badge" height="50em" style="border-radius:6px" /></p>
+### <p align="center"><img src="https://img.shields.io/badge/🔍_About_Me_🔎-995bfb" height="40em" style="border-radius:6px" /></p>
 
 <h3 align="center">Third-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
 <h3 align="center">Interested in front-end development and pursuing a career as a full-stack developer</h3>
 <h3 align="center">Experienced in developing websites using React.js, Next.js, Tailwind CSS, TypeScript, and Figma</h3>
 <h3 align="center">Looking forward to where my career will take me</h3>
 
-### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a?style=for-the-badge" height="35em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35em" style="border-radius:5px" />](https://discord.com/users/463287202005123072)</p>
+### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a" height="30em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" height="30em" style="border-radius:5px" />](https://discord.com/users/463287202005123072)</p>
 
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
 <br>
 
-### <p align="center"><img src="https://img.shields.io/badge/🌸_Frontend_🌸-f8ce57?style=for-the-badge" height="50em" style="border-radius:6px" /></p>
+### <p align="center"><img src="https://img.shields.io/badge/🌸_Frontend_🌸-f8ce57" height="40em" style="border-radius:6px" /></p>
 
 <div align="center">
  <img height="50em" src="./frontend/nextjs.png?raw=true" />
@@ -26,7 +26,7 @@
 
 <br>
 
-### <p align="center"><img src="https://img.shields.io/badge/🔗_API_🔗-f7588a?style=for-the-badge" height="50em" style="border-radius:6px" /></p>
+### <p align="center"><img src="https://img.shields.io/badge/🔗_API_🔗-f7588a" height="40em" style="border-radius:6px" /></p>
 
 <div align="center">
   <img height="70em" src="./api/nodejs.png?raw=true" />
@@ -35,7 +35,7 @@
 
 <br>
 
-### <p align="center"><img src="https://img.shields.io/badge/💾_Backend_💾-49dbdd?style=for-the-badge" height="50em" style="border-radius:6px" /></p>
+### <p align="center"><img src="https://img.shields.io/badge/💾_Backend_💾-49dbdd" height="40em" style="border-radius:6px" /></p>
 
 <div align="center">
  <img height="50em" src="./backend/postgresql.png?raw=true" />
