@@ -47,26 +47,9 @@
  <img height="50em" src="./backend/java.png?raw=true" />
 </div>
 
-<!-- ## <p align="center">🥇 EXPERIENCES & EXPERTISES 🥇</p>
-
-- Official <u>***Teaching Assistance***</u> of KMITL in Rust and C/C++ programming language for the KMITL freshmen.
-- <u>***Qualified***</u> and currently a  <u>***cadet at  42Bangkok***</u>, a global computer science school from France.
-- <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
-- <u>***Teach coding***</u> to friends at KMITL and other universities. -->
-
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
 <br>
-
-<!-- ### <p align="center"><img src="https://img.shields.io/badge/📈_My_Github_Stats_📊-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p> -->
-
-<!-- <p align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square"/>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DulapahV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulapahV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=dracula"/>
-</p> -->
 
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
