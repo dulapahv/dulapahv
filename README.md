@@ -9,7 +9,11 @@
 
 ### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a?style=for-the-badge" height="35em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35em" style="border-radius:5px" />]([https://dulapahv.dev](https://discord.com/users/463287202005123072))</p>
 
----
+<br>
+
+### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /></p>
+
+<br>
 
 ### <p align="center"><img src="https://img.shields.io/badge/🌸_Frontend_🌸-f8ce57?style=for-the-badge" height="50em" style="border-radius:6px" /></p>
 
@@ -50,7 +54,11 @@
 - <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
 - <u>***Teach coding***</u> to friends at KMITL and other universities. -->
 
----
+<br>
+
+### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /></p>
+
+<br>
 
 <!-- ### <p align="center"><img src="https://img.shields.io/badge/📈_My_Github_Stats_📊-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p> -->
 
@@ -64,6 +72,10 @@
 
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
----
+<br>
+
+### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /></p>
+
+<br>
 
 <p align="center">With	:heart: from dulapahv :octocat:</p>
