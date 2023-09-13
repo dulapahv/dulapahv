@@ -13,7 +13,7 @@
 
 <h3 align="center">Portfolio and Contacts<p>
 
-### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a" height="35em" style="border-radius:5px" />](https://dulapahv.dev)</p>
+### <p align="center">[<img src="https://img.shields.io/badge/✨_dulapahv.dev-fb568a" height="35em" style="border-radius:5px" />](https://dulapahv.dev)</p>
 
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
