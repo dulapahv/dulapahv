@@ -2,10 +2,12 @@
 
 ### <p align="center"><img src="https://img.shields.io/badge/🔍_ABOUT_ME_🔎-995bfb" height="40em" style="border-radius:6px" /></p>
 
-<h3 align="center">Third-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
-<h3 align="center">Interested in front-end development and pursuing a career as a full-stack developer</h3>
-<h3 align="center">Experienced in developing websites using React.js, Next.js, Tailwind CSS, TypeScript, and Figma</h3>
-<h3 align="center">Looking forward to where my career will take me</h3>
+<div align="center">
+ <h3>Third-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
+ <h3>Interested in front-end development and pursuing a career as a full-stack developer</h3>
+ <h3>Experienced in developing websites using React.js, Next.js, Tailwind CSS, TypeScript, and Figma</h3>
+ <h3>Looking forward to where my career will take me</h3>
+</div>
 
 ### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a" height="30em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" height="30em" style="border-radius:5px" />](https://discord.com/users/463287202005123072)</p>
 
