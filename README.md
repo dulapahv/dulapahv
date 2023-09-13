@@ -18,7 +18,7 @@
 ### <p align="center"><img src="https://img.shields.io/badge/🌸_Frontend_🌸-f8ce57?style=for-the-badge" height="50em" style="border-radius:6px" /></p>
 
 <div align="center">
- <img height="40em" src="./frontend/nextjs.png?raw=true" />
+ <img height="50em" src="./frontend/nextjs.png?raw=true" />
  <img height="50em" src="./frontend/reactjs.png?raw=true" />
  <img height="50em" src="./frontend/tailwindcss.png?raw=true" />
  <img height="50em" src="./frontend/html.png?raw=true" />
@@ -78,4 +78,4 @@
 
 <br>
 
-<p align="center">With	:heart: from dulapahv :octocat:</p>
+<p align="center">With :heart: from dulapahv :octocat:</p>
