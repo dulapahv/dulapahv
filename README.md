@@ -72,8 +72,6 @@
 
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<br>
-
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /> <img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="25em" width="25em" style="border-radius:100%" /></p>
 
 <br>
