@@ -1,17 +1,19 @@
 ![bg_cover](https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4)
 
-## <p align="center">🔍 ABOUT ME 🔎</p>
+<!-- ## <p align="center">🔍 ABOUT ME 🔎</p> -->
+### <p align="center"><img src="https://img.shields.io/badge/🔍_About_Me_🔎-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <p align="center">Third-year BSc Honours degree in Software Engineering student at the University of Glasgow.</p>
 <p align="center">Interested in front-end development and pursuing a career as a full-stack developer.</p>
 <p align="center">Experienced in developing websites using ReactJS, NextJS, Tailwind CSS, and Figma.</p>
 <p align="center">Looking forward to where my career will take me.</p>
 
-### <p align="center">[![✨ - Portfolio](https://img.shields.io/badge/✨-Portfolio-fb568a?style=for-the-badge)](https://dulapahv.dev) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/463287202005123072)</p>
+### <p align="center">[<img src="https://img.shields.io/badge/✨_Portfolio-fb568a?style=for-the-badge" height="35em" style="border-radius:5px" />](https://dulapahv.dev) [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35em" style="border-radius:5px" />]([https://dulapahv.dev](https://discord.com/users/463287202005123072))</p>
 
-<br>
+---
 
-## <p align="center">🌸 FRONTEND 🌸</p>
+<!-- ## <p align="center">🌸 FRONTEND 🌸</p> -->
+### <p align="center"><img src="https://img.shields.io/badge/🌸_Frontend_🌸-f8ce57?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <div align="center">
  <img height="40em" src="./frontend/nextjs.png?raw=true" />
@@ -24,7 +26,8 @@
 
 <br>
 
-## <p align="center">🔗 API 🔗</p>
+<!-- ## <p align="center">🔗 API 🔗</p> -->
+### <p align="center"><img src="https://img.shields.io/badge/🔗_API_🔗-f7588a?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <div align="center">
   <img height="70em" src="./api/nodejs.png?raw=true" />
@@ -33,7 +36,8 @@
 
 <br>
 
-## <p align="center">⚙️ BACKEND ⚙️</p>
+<!-- ## <p align="center">💾 BACKEND 💾</p> -->
+### <p align="center"><img src="https://img.shields.io/badge/💾_Backend_💾-49dbdd?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
 
 <div align="center">
  <img height="50em" src="./backend/postgresql.png?raw=true" />
@@ -50,9 +54,11 @@
 - <u>***Initiated and mentored***</u> KMITL freshmen in Python and C programming language in the SE14 Pre-Session activity.
 - <u>***Teach coding***</u> to friends at KMITL and other universities. -->
 
-<br>
+---
 
-## <p align="center">📈 MY GITHUB STATS 📊</p>
+<!-- ## <p align="center">📈 MY GITHUB STATS 📊</p> -->
+### <p align="center"><img src="https://img.shields.io/badge/📈_My_Github_Stats_📊-995bfb?style=for-the-badge" height="50em" style="border-radius:8px" /></p>
+
 <!-- <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=DulapahV&color=blue&label=VISITORS+COUNT&style=flat-square"/>
 </p>
