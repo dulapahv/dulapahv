@@ -4,7 +4,7 @@
 
 <p align="center">Third-year BSc Honours degree in Software Engineering student at the University of Glasgow.</p>
 <p align="center">Interested in front-end development and pursuing a career as a full-stack developer.</p>
-<p align="center">Experience in developing websites using ReactJS, NextJS, Tailwind CSS, and Figma.</p>
+<p align="center">Experienced in developing websites using ReactJS, NextJS, Tailwind CSS, and Figma.</p>
 <p align="center">Looking forward to where my career will take me.</p>
 
 ### <p align="center">[![✨ - Portfolio](https://img.shields.io/badge/✨-Portfolio-fb568a?style=for-the-badge)](https://dulapahv.dev) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/463287202005123072)</p>
