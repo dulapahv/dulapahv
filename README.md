@@ -17,8 +17,6 @@
 
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
-<br>
-
 ### <p align="center"><img src="https://img.shields.io/badge/🌸_FRONTEND_🌸-f8ce57" height="40em" style="border-radius:6px" /></p>
 
 <div align="center">
@@ -53,12 +51,8 @@
 
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
-<br>
-
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
-
-<br>
 
 <p align="center">With :heart: from dulapahv :octocat:</p>
