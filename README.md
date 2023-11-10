@@ -68,10 +68,12 @@
 
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<!--
 <p align="center">
     <a href="https://leetcode.com/dulapahv/"><img width="48%" src="https://leetcode.card.workers.dev/dulapahv?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
+-->
 
-<p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
+<p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p> 
 
 <p align="center">With :heart: from dulapahv :octocat:</p>
