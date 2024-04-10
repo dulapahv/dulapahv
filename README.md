@@ -13,23 +13,25 @@
 
 <br>
 
-<p align="center"><img src="https://img.shields.io/badge/🔍_ABOUT_ME_🔎-995bfb" height="40em" style="border-radius:6px" /></p>
+### <p align="center">[<img src="https://img.shields.io/badge/✨_PORTFOLIO_✨-fb568a" height="40em" style="border-radius:6px" />](https://dulapahv.dev)</p>
+
+<p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
+
+### <p align="center">[<img src="https://img.shields.io/badge/🔍_ABOUT_ME_🔎-995bfb" height="35em" style="border-radius:6px" />](https://dulapahv.dev/#about)</p>
 
 <div align="center">
  <h3>Third-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
  <h3>Interested in front-end development and pursuing a career as a full-stack developer</h3>
- <h3>Experienced in developing websites using React.js, Next.js, Tailwind CSS, TypeScript, and Figma</h3>
- <h3>I look forward to where my career will take me.</h3>
+ <br>
+ <h4>Technology has the power to transform lives, and I am passionate about making technology equally accessible to everyone</h4>
+ <h4>Looking forward to where my career will take me</h4>
 </div>
 
 <br>
 
-<h3 align="center">Portfolio and Contacts<p>
-
-### <p align="center">[<img src="https://img.shields.io/badge/✨_dulapahv.dev-fb568a" height="35em" style="border-radius:5px" />](https://dulapahv.dev)</p>
-
 <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
+<!--
 ### <p align="center"><img src="https://img.shields.io/badge/🌸_FRONTEND_🌸-f8ce57" height="40em" style="border-radius:6px" /></p>
 
 <div align="center">
@@ -66,6 +68,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p>
 
+-->
+
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
@@ -76,4 +80,4 @@
 
 <p align="center"><img src="https://img.shields.io/badge/_-f7588a?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-49dbdd?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-f8ce57?style=for-the-badge" height="2em" width="50em" /><img src="https://img.shields.io/badge/_-995bfb?style=for-the-badge" height="2em" width="50em" /></p> 
 
-<p align="center">With :heart: from dulapahv :octocat:</p>
+<p align="center">With 💕 from dulapahv :octocat:</p>
