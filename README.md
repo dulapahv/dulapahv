@@ -20,7 +20,7 @@
 ### <p align="center">[<img src="https://img.shields.io/badge/🔍_ABOUT_ME_🔎-995bfb" height="35em" style="border-radius:6px" />](https://dulapahv.dev/#about)</p>
 
 <div align="center">
- <h3>Third-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
+ <h3>Final-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
  <h3>Interested in front-end development and pursuing a career as a full-stack developer</h3>
  <br>
  <h4>Technology has the power to transform lives, and I am passionate about making technology equally accessible to everyone</h4>
