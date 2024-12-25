@@ -23,7 +23,7 @@
  <h3>Final-year BSc Honours degree in Software Engineering student at the University of Glasgow</h3>
  <h3>Interested in front-end development and pursuing a career as a full-stack developer</h3>
  <br>
- <h4>Technology has the power to transform lives, and I am passionate about making technology equally accessible to everyone</h4>
+ <h4>I want to make technology accessible and delightful to everyone as I believe it has the power to transform lives, and that's what I've been doing since the very beginning.</h4>
  <h4>Looking forward to where my career will take me</h4>
 </div>
 
