@@ -4,13 +4,13 @@
 
 > "I want to make technology accessible and delightful to everyone as I believe it has the power to transform lives, and that's what I've been doing since the very beginning."
 
-I am an upcoming **_Software Engineer Graduate_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom's largest banking and insurance institutions in the United Kingdom.
+I am an upcoming **_Software Engineer Graduate_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 19 million customers across retail, commercial, and private banking.
 
 In 2024, I completed an internship at NatWest Group as a **_Software Engineer Intern_**, where I honed my skills across frontend, backend, and cloud technologies. Following the internship, I was thrilled to receive a **_return offer_** to join as a Software Engineer Graduate, starting in September 2025.
 
-I recently completed a double degree program in Software Engineering, earning a **_Bachelor of Science with Honours (BSc Hons) with First Class Honours and Specialism in Parallel and Distributed Systems_** from [University of Glasgow](https://www.natwestgroup.com/), United Kingdom, and a **_Bachelor of Engineering (B.Eng.)_** from [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/), Thailand. I completed the first two years of the program in Thailand and the final two years in the United Kingdom.
+In 2025, I completed a double degree program in Software Engineering, earning a **_Bachelor of Science with Honours (BSc Hons) with First Class Honours and Specialism in Parallel and Distributed Systems_** from the [University of Glasgow](https://www.gla.ac.uk/), a Russell Group university in the United Kingdom, and a **_Bachelor of Engineering (B.Eng.)_** from [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/), Thailand. I completed the first two years of the program in Thailand and the final two years in the United Kingdom.
 
-I'm passionate about making technology accessible and delightful for everyone, believing in its power to transform lives. I'm excited about where my career will take me and how I can contribute to building a better, more inclusive digital world.
+Driven by a passion for making technology accessible and delightful, I believe in its ability to transform lives, and that’s what I’ve been working toward since the very beginning.
 
 <!--
 <img src="https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4" style="border-radius:8px" />
