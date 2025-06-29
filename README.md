@@ -1,4 +1,4 @@
-## Hello 👋 I'm Dulapah Vibulsanti. Thai Software Engineer 💻 currently based in Edinburgh, United Kingdom.
+## Hello 👋 I'm Dulapah Vibulsanti. Thai Software Engineer 💻 based in Edinburgh, United Kingdom.
 
 [📄 Résumé](https://dulapahv.dev/resume) | [✨ Portfolio Website](https://dulapahv.dev/) | [💼 LinkedIn](https://www.linkedin.com/in/dulapahv) | [:octocat: GitHub](https://github.com/dulapahv)
 
