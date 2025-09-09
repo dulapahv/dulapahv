@@ -4,7 +4,7 @@
 
 > "I want to make technology accessible and delightful to everyone as I believe it has the power to transform lives, and that's what I've been doing since the very beginning."
 
-I am an upcoming **_Graduate Software Engineer_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 19 million customers across retail, commercial, and private banking.
+I am a **_Graduate Software Engineer_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 19 million customers across retail, commercial, and private banking.
 
 In 2024, I completed an internship at NatWest Group as a **_Software Engineer Intern_**, where I honed my skills across frontend, backend, and cloud technologies. Following the internship, I was thrilled to receive a **_return offer_** to join as a Graduate Software Engineer, starting in September 2025.
 
