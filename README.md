@@ -6,7 +6,7 @@
 
 I am a **_Graduate Software Engineer_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 19 million customers across retail, commercial, and private banking.
 
-In 2024, I completed an internship at NatWest Group as a **_Software Engineer Intern_**, where I honed my skills across frontend, backend, and cloud technologies. Following the internship, I was thrilled to receive a **_return offer_** to join as a Graduate Software Engineer, starting in September 2025.
+In 2024, I completed an internship at NatWest Group as a **_Software Engineer Intern_**, where I honed my skills across frontend, backend, cloud technologies, DevOps, and data analytics. Following the internship, I was thrilled to receive a **_return offer_** to join as a Graduate Software Engineer, starting in September 2025.
 
 In 2025, I completed a double degree program in Software Engineering, earning a **_Bachelor of Science with Honours (BSc Hons) with First Class Honours and Specialism in Parallel and Distributed Systems_** from the [University of Glasgow](https://www.gla.ac.uk/), a Russell Group university in the United Kingdom, and a **_Bachelor of Engineering (B.Eng.)_** from [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/), Thailand. I completed the first two years of the program in Thailand and the final two years in the United Kingdom.
 
