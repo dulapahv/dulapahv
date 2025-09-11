@@ -10,7 +10,7 @@ In 2024, I completed an internship at NatWest Group as a **_Software Engineer In
 
 In 2025, I completed a double degree program in Software Engineering, earning a **_Bachelor of Science with Honours (BSc Hons) with First Class Honours and Specialism in Parallel and Distributed Systems_** from the [University of Glasgow](https://www.gla.ac.uk/), a Russell Group university in the United Kingdom, and a **_Bachelor of Engineering (B.Eng.)_** from [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/), Thailand. I completed the first two years of the program in Thailand and the final two years in the United Kingdom.
 
-Driven by a passion for making technology accessible and delightful, I believe in its ability to transform lives, and that’s what I’ve been working toward since the very beginning.
+I believe accessible and delightful technology has the power to transform lives, and that's what I've been working toward since the very beginning.
 
 <!--
 <img src="https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4" style="border-radius:8px" />
