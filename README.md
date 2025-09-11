@@ -2,7 +2,7 @@
 
 [📄 Résumé](https://dulapahv.dev/resume) | [✨ Portfolio Website](https://dulapahv.dev/) | [💼 LinkedIn](https://www.linkedin.com/in/dulapahv) | [:octocat: GitHub](https://github.com/dulapahv)
 
-> "I want to make technology accessible and delightful to everyone as I believe it has the power to transform lives, and that's what I've been doing since the very beginning."
+> "I believe accessible and delightful technology has the power to transform lives, and that's what I've been working toward since the very beginning."
 
 I am a **_Graduate Software Engineer_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 19 million customers across retail, commercial, and private banking.
 
@@ -10,7 +10,7 @@ In 2024, I completed an internship at NatWest Group as a **_Software Engineer In
 
 In 2025, I completed a double degree program in Software Engineering, earning a **_Bachelor of Science with Honours (BSc Hons) with First Class Honours and Specialism in Parallel and Distributed Systems_** from the [University of Glasgow](https://www.gla.ac.uk/), a Russell Group university in the United Kingdom, and a **_Bachelor of Engineering (B.Eng.)_** from [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/), Thailand. I completed the first two years of the program in Thailand and the final two years in the United Kingdom.
 
-I believe accessible and delightful technology has the power to transform lives, and that's what I've been working toward since the very beginning.
+Looking forward to where my career will take me...
 
 <!--
 <img src="https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4" style="border-radius:8px" />
