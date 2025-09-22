@@ -1,10 +1,10 @@
 ## Hello 👋 I'm Dulapah Vibulsanti. Thai Software Engineer 💻 based in Edinburgh, United Kingdom.
 
-[📄 Résumé](https://dulapahv.dev/resume) | [✨ Portfolio Website](https://dulapahv.dev/) | [💼 LinkedIn](https://www.linkedin.com/in/dulapahv) | [:octocat: GitHub](https://github.com/dulapahv)
+[**📄 Résumé**](https://dulapahv.dev/resume) | [**✨ Portfolio Website**](https://dulapahv.dev/) | [**💼 LinkedIn**](https://www.linkedin.com/in/dulapahv) | [**:octocat: GitHub**](https://github.com/dulapahv)
 
 > "I believe accessible and delightful technology has the power to transform lives, and that's what I've been working toward since the very beginning."
 
-I am a **_Graduate Software Engineer_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 19 million customers across retail, commercial, and private banking.
+I am a **_Graduate Software Engineer_** at [NatWest Group](https://www.natwestgroup.com/), one of the United Kingdom’s Big Four banks, serving over 20 million customers across retail, commercial, and private banking.
 
 In 2024, I completed an internship at NatWest Group as a **_Software Engineer Intern_**, where I honed my skills across frontend, backend, cloud technologies, DevOps, and data analytics. Following the internship, I was thrilled to receive a **_return offer_** to join as a Graduate Software Engineer, starting in September 2025.
 
