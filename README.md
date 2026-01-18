@@ -1,3 +1,15 @@
+### Hi, I'm Dulapah.
+
+I'm a Graduate Software Engineer at NatWest Group based in Edinburgh, UK, focused on building accessible, delightful digital experiences with real-world impact.
+
+I occasionally write on my personal blog at [dulapahv.dev/blog](https://dulapahv.dev/blog) and contribute to open-source projects.
+
+Outside of work, I study Japanese, listen to music, play relaxing games, and spy on my pet rabbit back home via a camera.
+
+- Portfolio: [dulapahv.dev](https://dulapahv.dev/)
+- Resume: [dulapahv.dev/resume](https://dulapahv.dev/resume)
+
+<!--
 ## Hello 👋 I'm Dulapah Vibulsanti. Thai Software Engineer 💻 based in Edinburgh, United Kingdom.
 
 [**📄 Résumé**](https://dulapahv.dev/resume) | [**✨ Portfolio Website**](https://dulapahv.dev/) | [**💼 LinkedIn**](https://www.linkedin.com/in/dulapahv) | [**:octocat: GitHub**](https://github.com/dulapahv)
@@ -11,6 +23,7 @@ In 2024, I completed an internship at NatWest Group as a **_Software Engineer In
 In 2025, I completed a double degree program in Software Engineering, earning a **_Bachelor of Science with Honours (BSc Hons) with First Class Honours and Specialism in Parallel and Distributed Systems_** from the [University of Glasgow](https://www.gla.ac.uk/), a Russell Group university in the United Kingdom, and a **_Bachelor of Engineering (B.Eng.)_** from [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/), Thailand. I completed the first two years of the program in Thailand and the final two years in the United Kingdom.
 
 Looking forward to where my career will take me...
+-->
 
 <!--
 <img src="https://github.com/dulapahv/dulapahv/assets/71577909/8ce87163-bb39-4651-823a-ae70df84eed4" style="border-radius:8px" />
@@ -91,7 +104,9 @@ Looking forward to where my career will take me...
 
 -->
 
+<!--
 ![3d](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
 
 <!--
 <p align="center">
