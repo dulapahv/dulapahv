@@ -1,6 +1,6 @@
 ### Hi, I'm Dulapah.
 
-I'm a Graduate Software Engineer at NatWest Group in Edinburgh, UK, focused on thoughtful design and building reliable, maintainable software in production.
+I'm a Thai Graduate Software Engineer at NatWest Group in Edinburgh, UK, focused on thoughtful design and building reliable, maintainable software in production.
 
 I occasionally write on my personal blog at [dulapahv.dev/blog](https://dulapahv.dev/blog) and contribute to open-source projects.
 
