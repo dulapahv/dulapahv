@@ -6,6 +6,8 @@ I occasionally write on my personal blog at [dulapahv.dev/blog](https://dulapahv
 
 Outside of work, I study Japanese, listen to music, play relaxing games, and spy on my pet rabbit back home via a camera.
 
+---
+
 - Portfolio: [dulapahv.dev](https://dulapahv.dev/)
 - Resume: [dulapahv.dev/resume](https://dulapahv.dev/resume)
 
