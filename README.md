@@ -11,6 +11,8 @@ Outside of work, I study Japanese, listen to music, play relaxing games, and spy
 - Portfolio: [dulapahv.dev](https://dulapahv.dev/)
 - Resume: [dulapahv.dev/resume](https://dulapahv.dev/resume)
 
+![](https://hit.yhype.me/github/profile?account_id=71577909)
+
 <!--
 ## Hello 👋 I'm Dulapah Vibulsanti. Thai Software Engineer 💻 based in Edinburgh, United Kingdom.
 
