@@ -1,6 +1,6 @@
 ### Hi, I'm Dulapah.
 
-I'm a Thai Software Engineer at NatWest Group in London, UK, focused on thoughtful design and building reliable, maintainable software in production.
+I'm a Thai Software Engineer at NatWest Group in London, UK, focusing on thoughtful design and shipping reliable, maintainable software that creates exceptional customer experiences.
 
 I occasionally write on my personal blog at [dulapahv.dev/blog](https://dulapahv.dev/blog) and contribute to open-source projects.
 
